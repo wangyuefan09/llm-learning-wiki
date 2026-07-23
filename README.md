@@ -30,6 +30,6 @@
 本地仓库初始化后，在 GitHub 创建同名私有仓库并执行：
 
 ```bash
-git remote add origin git@github.com:你的用户名/个人大模型知识库.git
+git remote add origin git@github.com:你的用户名/llm-learning-wiki.git
 git push -u origin main
 ```
