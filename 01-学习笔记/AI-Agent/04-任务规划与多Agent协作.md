@@ -5,7 +5,7 @@
 学习顺序: 4
 状态: 已整理
 创建日期: 2026-07-24
-更新日期: 2026-07-24
+更新日期: 2026-07-27
 来源: https://github.com/wangyuefan09/agent-zero
 来源说明: Agent Zero源码与中文文档（王越凡及项目贡献者）
 ---
@@ -150,6 +150,10 @@
 - 并行冲突与取消成功率。
 
 只有质量或耗时收益超过协调成本时，多 Agent 才值得保留。
+
+## 公众号文章
+
+- [[02-公众号/已发布/Agent系列/04-CoT、ReAct和Plan-and-Execute/正文|Agent 是如何思考的？一篇看懂 CoT、ReAct 和 Plan-and-Execute]]
 
 ## 关联笔记
 
