@@ -3,7 +3,7 @@
 类型: 公众号系列索引
 系列: Agent系列
 状态: 连载中
-更新日期: 2026-07-27
+更新日期: 2026-07-29
 ---
 
 # Agent 系列
@@ -21,6 +21,7 @@
 | 5 | 2026-07-21 22:03 | [[02-公众号/已发布/Agent系列/05-Tool Calling/正文|Agent 如何真正「动手」？一篇看懂 Tool Calling]] | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483736&idx=1&sn=2f19031d088ed4e3fdc2322886c9a37b&scene=21#wechat_redirect) |
 | 6 | 2026-07-23 08:07 | [[02-公众号/已发布/Agent系列/06-Memory/正文|Agent 的 Memory 是什么？一篇讲清上下文、短期记忆和长期记忆]] | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483753&idx=1&sn=b489b579ca102261585567d582aee2d7&scene=21#wechat_redirect) |
 | 7 | 2026-07-26 20:27 | [[02-公众号/已发布/Agent系列/07-State/正文|Agent 的状态是什么？为什么多步骤任务需要 State]] | [阅读原文](https://mp.weixin.qq.com/s/SiqbQs6ymgDOTJlJSCpDWQ) |
+| 8 | 2026-07-29 22:02 | [[02-公众号/已发布/Agent系列/08-超时重试与终止条件/正文|Agent 为什么会执行失败？超时、重试和终止条件应该怎么设计？]] | [阅读原文](https://mp.weixin.qq.com/s/y0aXlUwZHbDNlE7U7H2tFw) |
 
 ## 对应学习主线
 
@@ -31,3 +32,4 @@
 5. Tool Calling：[[03-工具调用与执行系统]]
 6. 上下文与 Memory：[[02-多轮会话与上下文管理]]、[[05-记忆系统与知识召回]]
 7. State、检查点与恢复：[[01-Agent基础与运行循环]]、[[02-多轮会话与上下文管理]]、[[09-可观测性恢复与安全边界]]
+8. 超时、重试与终止条件：[[01-Agent基础与运行循环]]、[[03-工具调用与执行系统]]、[[09-可观测性恢复与安全边界]]
