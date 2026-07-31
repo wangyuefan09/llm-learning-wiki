@@ -12,15 +12,15 @@
 
 ## 已发布
 
-| 篇序 | 发布时间 | 文章 | 公众号原文 |
-| --- | --- | --- | --- |
-| 1 | 2026-07-14 22:06 | [[02-公众号/已发布/Agent系列/01-Agent与普通对话/正文|什么是 AI Agent？从普通对话到任务执行]] | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483686&idx=1&sn=8fbfd46e3f04885130f1605073f982b6&scene=21#wechat_redirect) |
-| 2 | 2026-07-16 21:34 | [[02-公众号/已发布/Agent系列/02-Agent的基本组成/正文|拆开一个 AI Agent：LLM、工具、记忆和执行循环如何配合？]] | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483691&idx=1&sn=4ac96319e5d7e2dac7d4bdcffc446903&scene=21#wechat_redirect) |
-| 3 | 2026-07-19 16:13 | [[02-公众号/已发布/Agent系列/03-Agent Loop/正文|Agent 是怎么一步步完成任务的？一篇看懂 Agent Loop]] | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483697&idx=1&sn=f60b8b53bd217654ebebfd5ac944a98f&scene=21#wechat_redirect) |
-| 4 | 2026-07-20 21:04 | [[02-公众号/已发布/Agent系列/04-CoT、ReAct和Plan-and-Execute/正文|Agent 是如何思考的？一篇看懂 CoT、ReAct 和 Plan-and-Execute]] | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483706&idx=1&sn=121fff93e940378b9026000a1dba7695&scene=21#wechat_redirect) |
-| 5 | 2026-07-21 22:03 | [[02-公众号/已发布/Agent系列/05-Tool Calling/正文|Agent 如何真正「动手」？一篇看懂 Tool Calling]] | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483736&idx=1&sn=2f19031d088ed4e3fdc2322886c9a37b&scene=21#wechat_redirect) |
-| 6 | 2026-07-23 08:07 | [[02-公众号/已发布/Agent系列/06-Memory/正文|Agent 的 Memory 是什么？一篇讲清上下文、短期记忆和长期记忆]] | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483753&idx=1&sn=b489b579ca102261585567d582aee2d7&scene=21#wechat_redirect) |
-| 7 | 2026-07-26 20:27 | [[02-公众号/已发布/Agent系列/07-State/正文|Agent 的状态是什么？为什么多步骤任务需要 State]] | [阅读原文](https://mp.weixin.qq.com/s/SiqbQs6ymgDOTJlJSCpDWQ) |
+| 篇序  | 发布时间             | 文章                                                    | 公众号原文                                            |                                                                                                                                             |
+| --- | ---------------- | ----------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | 2026-07-14 22:06 | [[02-公众号/已发布/Agent系列/01-Agent与普通对话/正文                 | 什么是 AI Agent？从普通对话到任务执行]]                        | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483686&idx=1&sn=8fbfd46e3f04885130f1605073f982b6&scene=21#wechat_redirect) |
+| 2   | 2026-07-16 21:34 | [[02-公众号/已发布/Agent系列/02-Agent的基本组成/正文                 | 拆开一个 AI Agent：LLM、工具、记忆和执行循环如何配合？]]              | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483691&idx=1&sn=4ac96319e5d7e2dac7d4bdcffc446903&scene=21#wechat_redirect) |
+| 3   | 2026-07-19 16:13 | [[02-公众号/已发布/Agent系列/03-Agent Loop/正文                 | Agent 是怎么一步步完成任务的？一篇看懂 Agent Loop]]              | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483697&idx=1&sn=f60b8b53bd217654ebebfd5ac944a98f&scene=21#wechat_redirect) |
+| 4   | 2026-07-20 21:04 | [[02-公众号/已发布/Agent系列/04-CoT、ReAct和Plan-and-Execute/正文 | Agent 是如何思考的？一篇看懂 CoT、ReAct 和 Plan-and-Execute]] | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483706&idx=1&sn=121fff93e940378b9026000a1dba7695&scene=21#wechat_redirect) |
+| 5   | 2026-07-21 22:03 | [[02-公众号/已发布/Agent系列/05-Tool Calling/正文               | Agent 如何真正「动手」？一篇看懂 Tool Calling]]               | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483736&idx=1&sn=2f19031d088ed4e3fdc2322886c9a37b&scene=21#wechat_redirect) |
+| 6   | 2026-07-23 08:07 | [[02-公众号/已发布/Agent系列/06-Memory/正文                     | Agent 的 Memory 是什么？一篇讲清上下文、短期记忆和长期记忆]]           | [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA1MzY1OQ==&mid=2247483753&idx=1&sn=b489b579ca102261585567d582aee2d7&scene=21#wechat_redirect) |
+| 7   | 2026-07-26 20:27 | [[02-公众号/已发布/Agent系列/07-State/正文                      | Agent 的状态是什么？为什么多步骤任务需要 State]]                  | [阅读原文](https://mp.weixin.qq.com/s/SiqbQs6ymgDOTJlJSCpDWQ)                                                                                   |
 
 ## 对应学习主线
 
